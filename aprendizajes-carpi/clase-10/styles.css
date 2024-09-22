@@ -1,0 +1,13 @@
+/****** DARK MODE ******/
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+  background-color: #1b0737;
+  color: white;
+}
+
+p {
+  margin-top: 2rem;
+}
