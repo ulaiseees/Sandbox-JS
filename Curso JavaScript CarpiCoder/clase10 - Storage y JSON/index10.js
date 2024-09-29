@@ -1,4 +1,4 @@
-// Clase 10 - Eventos
+// Clase 10 - Storage y JSON
 
 // https://www.javatpoint.com/javascript-events 👈🏻 Carpi dejó este link como "machetito"
 
